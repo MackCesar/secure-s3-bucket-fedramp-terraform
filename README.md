@@ -18,9 +18,9 @@ This repository contains Terraform scripts to set up AWS and Azure environments 
    ```
    
 4. Apply the Terraform configuration:
-```
-terraform apply
-```
+	```
+	terraform apply
+	```
 ### AWS Resources Created
 
 	* 	S3 bucket with server-side encryption
@@ -43,13 +43,13 @@ terraform apply
 	2.	Navigate to the azure directory.
 	3.	Initialize Terraform:
 
-```
-terraform init
-```
+	```
+	terraform init
+	```
 	4.	Apply the Terraform configuration:
-```
-terraform apply 
-```
+	```
+	terraform apply 
+	```
 
 ### Azure Resources Created
 
