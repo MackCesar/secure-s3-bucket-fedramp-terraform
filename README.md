@@ -13,12 +13,12 @@ This repository contains Terraform scripts to set up AWS and Azure environments 
 1. Clone this repository.
 2. Navigate to the `aws` directory.
 3. Initialize Terraform:
-   ```sh
+   ```
    terraform init
    ```
    
 4. Apply the Terraform configuration:
-```sh
+```
 terraform apply
 ```
 ### AWS Resources Created
@@ -43,11 +43,11 @@ terraform apply
 	2.	Navigate to the azure directory.
 	3.	Initialize Terraform:
 
-```sh
+```
 terraform init
 ```
 	4.	Apply the Terraform configuration:
-```sh
+```
 terraform apply 
 ```
 
