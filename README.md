@@ -21,6 +21,7 @@ This repository contains Terraform scripts to set up AWS and Azure environments 
 	```
 	terraform apply
 	```
+ 
 ### AWS Resources Created
 
 	* 	S3 bucket with server-side encryption
@@ -46,6 +47,7 @@ This repository contains Terraform scripts to set up AWS and Azure environments 
 	```
 	terraform init
 	```
+ 
 	4.	Apply the Terraform configuration:
 	```
 	terraform apply 
